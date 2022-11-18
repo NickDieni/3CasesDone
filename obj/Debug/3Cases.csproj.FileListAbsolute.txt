@@ -1,0 +1,11 @@
+C:\Users\nicdie\source\repos\3Cases\3Cases\bin\Debug\3Cases.exe.config
+C:\Users\nicdie\source\repos\3Cases\3Cases\bin\Debug\3Cases.exe
+C:\Users\nicdie\source\repos\3Cases\3Cases\bin\Debug\3Cases.pdb
+C:\Users\nicdie\source\repos\3Cases\3Cases\bin\Debug\ClassLibrary For 3Cases.dll
+C:\Users\nicdie\source\repos\3Cases\3Cases\bin\Debug\ClassLibrary For 3Cases.pdb
+C:\Users\nicdie\source\repos\3Cases\3Cases\obj\Debug\3Cases.csproj.AssemblyReference.cache
+C:\Users\nicdie\source\repos\3Cases\3Cases\obj\Debug\3Cases.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicdie\source\repos\3Cases\3Cases\obj\Debug\3Cases.csproj.CoreCompileInputs.cache
+C:\Users\nicdie\source\repos\3Cases\3Cases\obj\Debug\3Cases.csproj.CopyComplete
+C:\Users\nicdie\source\repos\3Cases\3Cases\obj\Debug\3Cases.exe
+C:\Users\nicdie\source\repos\3Cases\3Cases\obj\Debug\3Cases.pdb
